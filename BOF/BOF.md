@@ -19,7 +19,7 @@ Win 7 OVA --> `https://mega.nz/file/EdFWXZCC#5P_qBh0b8FyTQGAEckbZKi1gqs31tOlKpY0
 `!mona config -set workingfolder c:\mona\%p`
 
 ### Get EIP offset
-`!mona findmsp -distance 600`
+`!mona findmsp -distance <OFFSET>`
 
 ### Create bytearray
 `!mona bytearray -b "\x00\x0a"`

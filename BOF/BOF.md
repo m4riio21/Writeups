@@ -15,10 +15,9 @@ Win 7 OVA --> `https://mega.nz/file/EdFWXZCC#5P_qBh0b8FyTQGAEckbZKi1gqs31tOlKpY0
 
 ### Bytearray payload
 
-`for x in range(1, 256):
-  print("\\x" + "{:02x}".format(x), end='')
-print()
-`
+`for x in range(1, 256):`
+`   print("\\x" + "{:02x}".format(x), end='')`
+
 
 # Mona commands
 
